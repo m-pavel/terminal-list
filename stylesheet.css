@@ -1,0 +1,21 @@
+.terminal-list-claude {
+    font-weight: bold;
+    color: #d97757;
+}
+
+/* No padding: get_surface_size() returns the content box, so any padding
+   here would shrink the drawn starburst. */
+.terminal-list-usage-icon {
+    padding: 0;
+    margin: 0 4px;
+}
+
+.terminal-list-limit-critical {
+    color: #e01b24;
+    font-weight: bold;
+}
+
+.terminal-list-footer {
+    font-size: 0.85em;
+    color: #9a9996;
+}

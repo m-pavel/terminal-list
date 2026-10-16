@@ -1,0 +1,14 @@
+{
+  "uuid": "terminal-list@local",
+  "name": "Terminal List",
+  "description": "Top panel dropdown listing terminal window titles across all workspaces, with Anthropic account usage drawn into the Claude icon as a battery-style spoke gauge. Click a title to focus that window.",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "",
+  "version": 3
+}
