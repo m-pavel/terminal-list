@@ -1,5 +1,5 @@
 {
-  "uuid": "terminal-list@local",
+  "uuid": "terminal-list@m-pavel.github.io",
   "name": "Terminal List",
   "description": "Top panel dropdown listing terminal window titles across all workspaces, with Anthropic account usage drawn into the Claude icon as a battery-style spoke gauge. Click a title to focus that window.",
   "shell-version": [
@@ -9,6 +9,6 @@
     "49",
     "50"
   ],
-  "url": "",
+  "url": "https://github.com/m-pavel/terminal-list",
   "version": 3
 }

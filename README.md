@@ -22,8 +22,8 @@ GNOME Shell extension that puts a dropdown in the top panel listing every GNOME 
 
 ```sh
 git clone https://github.com/m-pavel/terminal-list.git \
-  ~/.local/share/gnome-shell/extensions/terminal-list@local
-gnome-extensions enable terminal-list@local
+  ~/.local/share/gnome-shell/extensions/terminal-list@m-pavel.github.io
+gnome-extensions enable terminal-list@m-pavel.github.io
 ```
 
 On Wayland log out and back in. On X11 press `Alt+F2`, type `r`, press Enter.
